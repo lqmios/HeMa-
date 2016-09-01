@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>米其林(MICHELIN)</string>
+	<string>普利司通(Bridgestone)</string>
+	<string>马牌(Continental)</string>
+	<string>固特异(Goodyear)</string>
+	<string>倍耐力(Pirelli)</string>
+	<string>邓禄普(DUNLOP)</string>
+	<string>韩泰(Hankook)</string>
+	<string>佳通轮胎(Giti)</string>
+	<string>玛吉斯</string>
+	<string>朝阳</string>
+</array>
+</plist>

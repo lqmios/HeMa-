@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>摩特(MOTUL)</string>
+	<string>福斯(FUCHE)</string>
+	<string>大众(DAS AUTO)</string>
+	<string>奥迪(AUDI)</string>
+	<string>胜牌(Valvoline)</string>
+	<string>福特</string>
+	<string>奥吉星(OGISTAR)</string>
+	<string>博世(BOSCH)</string>
+	<string>艾纳(IIENA)</string>
+	<string>海湾(Gulf)</string>
+	<string>长安</string>
+	<string>好顺(HAOSHUN)</string>
+	<string>斯柯达(SKODA)</string>
+	<string>小马快跑</string>
+</array>
+</plist>

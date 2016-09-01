@@ -17,6 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    //隐藏导航栏返回字体
+    [[UIBarButtonItem appearance]setBackButtonTitlePositionAdjustment:UIOffsetMake(0, -60)forBarMetrics:UIBarMetricsDefault];
+    //返回箭头颜色
+    [[UINavigationBar appearance] setTintColor:COLOR(255, 66, 0.0, 1)];
+    
     return YES;
 }
 
